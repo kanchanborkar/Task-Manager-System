@@ -1,0 +1,22 @@
+# Task Manager System
+
+## Description
+This is a Spring Boot based REST API to manage daily tasks.
+
+## Features
+- Create Task
+- Update Task
+- Delete Task
+- Mark Task as Completed
+- Get All Tasks
+
+## Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- Maven
+
+## How to Run
+1. Clone the repository
+2. Configure database in application.properties
+3. Run using Maven
